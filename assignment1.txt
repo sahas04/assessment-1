@@ -1,0 +1,76 @@
+01) artifical intelligenc is nothing but making the machine think like human or machine mimic like human.
+    examples are:
+         -virtual assistant like siri and alexa
+         -fraud detection
+         -autonomus vehicles
+         -chabots
+         -speech recognization
+
+02) i)supervised learning is nothing but categorized data i.e data which ca be stored in table format.
+      example are:
+           -classification
+           -regresion
+    ii)unsupervised learning is nothing but uncategorized data (or) unlabelled data.
+      examples are:
+          -clustering
+
+03) python is a pure object oriented,high-level,intrepeted,dynamic programming language.
+    key features:
+         - platform independent
+         - open source
+         - easy to learn,access
+         -free of cost
+
+04) advantages:
+       -more libraries
+       -good visualization
+       -flexibility
+       -readability
+       -platform independence
+
+05) identation will make your code understand,read.
+          a=10
+          if a<0:
+             print("negative number")
+          elif a==0:
+             print("zero")
+          else:
+             print("positive number")
+
+06) a variable is a container which stores the data.
+                x=10
+               my_name="sahas"
+               _a=07
+
+07) i)keywords are the special words that have specific meanings and purpose and you cant use this keywords in variables and functions.
+         example:-if,else,elif,for,while etc...
+    ii)identifiers in python are names you give to things like variables,functions.
+         example:   list=5
+                    _list=7
+
+08)   i)numeric 
+        -integer
+        -float
+        -complex
+      ii)sequence
+       -string
+       -tuple
+       -list
+     iii)mapping
+       -dictionary
+     iv)bollean
+     v)sets
+
+09) a=10
+    if a==10:
+       print("a is equal to 10")
+
+10) if we have multiple conditions to execute then we elif statement for that,for example
+         if marks>=90:
+            print(" a+ grade")
+         elif marks>=80 or marks<90:
+           print(" a grade")
+        elif marks>=70 or marks<80:
+           print(" B grade")
+        else:
+           print("fail") 
